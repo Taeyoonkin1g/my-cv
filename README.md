@@ -34,11 +34,11 @@
 
 **Gyeocheok Academic Scholarship (Type C1 & C2)** | *Gyeongsang National University (GNU)*
 * **Period:** Fall 2020 / Fall 2021
-* **Description:** Awarded for outstanding academic performance and satisfying rigorous university scholarship criteria; granted tuition waivers reserved for high-achieving undergraduate students within the department.
+* **Description:** Awarded competitive university scholarships for achieving top-tier academic excellence. Notably achieved a **GPA of 3.94/4.5 (ranked 15th out of 43 students)** during the Fall 2020 semester, demonstrating deep competency in core engineering fields.
 
 **Extracurricular Excellence Scholarship (Type D)** | *Gyeongsang National University (GNU)*
 * **Period:** Fall 2020
-* **Description:** Received a merit-based stipend for outstanding performance and proactive engagement in university-led engineering competency enhancement programs.
+* **Description:** Received a merit-based stipend for outstanding engineering competency and proactive engagement in university-led technical programs.
 
 **Encouragement Award (Bronze Prize) in Creative Embedded System Competition** | *Engineering Education Innovation Center, GNU*
 * **Date:** August 2020
@@ -85,7 +85,7 @@ Across my academic journey, I have developed foundational strengths that align w
 * **Circuit Simulation & Analysis:** Over 1 year of experience with Cadence PSpice, proficient in DC/AC sweep, transient response, and parametric analysis to verify electronic circuit behavior.
 * **Hardware Implementation & Data Processing:** Configured real-time Data Acquisition (DAQ) systems using Raspberry Pi, optimizing SPI/I2C protocols to ensure signal integrity, and applied statistical hypothesis testing to filter experimental noise.
 
-I am highly eager to apply this background in DAQ hardware setup, statistical data processing, and PSpice modeling to your laboratory's ongoing research projects—particularly in evaluating device degradation and analyzing I-V/C-V characteristics. I believe my proactive attitude and engineering foundations will allow me to contribute meaningfully to your team.
+Notably, during the Fall 2020 semester, I focused intensely on core engineering principles, achieving a GPA of 3.94/4.5 (ranked 15/43) and securing both the Gyeocheok Academic Scholarship and the Extracurricular Excellence Scholarship simultaneously. I am highly eager to apply this academic discipline, along with my background in DAQ systems and PSpice modeling, to your laboratory's ongoing projects—particularly in evaluating device degradation and analyzing I-V/C-V characteristics.
 
 My detailed academic profile and core project tracking are fully documented and continuously updated on my GitHub repository:
 * **Academic Portfolio (GitHub):** [Taeyoonkin1g/my-cv](https://github.com/Taeyoonkin1g/my-cv)
@@ -97,3 +97,5 @@ Sincerely,
 Tae-Yoon Kang<br>
 Department of Electronic Engineering<br>
 Gyeongsang National University<br>
+Email: kangty1010@gmail.com<br>
+Phone: +82-10-3679-3697
