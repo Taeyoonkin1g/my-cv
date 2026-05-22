@@ -19,7 +19,7 @@
 ## EDUCATION
 **Gyeongsang National University (GNU)**, Jinju, South Korea  
 *Bachelor of Science in Electronic Engineering*
-* **Period:** March 2020 – Present (3rd Year Undergraduate)
+* **Period:** March 2021 – Present (3rd Year Undergraduate)
 * **Cumulative GPA:** 3.34 / 4.5
 * **Core Engineering Coursework:** Electronic Circuits & Lab, Circuit Analysis, Electromagnetic Fields, Digital Engineering & Lab, Communication Systems, Probability and Statistical Hypothesis Testing
 * **Academic Competence:** Demonstrates solid analytical skills in BJT/MOSFET biasing, multi-stage amplifier response, and system-level circuit analysis. Experienced in verifying engineering data distributions using two-sample statistical tests.
@@ -31,9 +31,17 @@
 * **Period:** March 2026 – Present
 * **Description:** Awarded a specialized merit-based scholarship aligned with regional strategic industries (Aerospace, Defense, and Green Mobility). Focusing on next-generation packaging architectures designed to withstand extreme thermal, mechanical, and radiation stress profiles.
 
-**Academic Excellence Scholarship** *Department of Electronic Engineering, GNU*
-* **Period:** Fall 2022 / Spring 2023 *(← 본인이 실제로 장학금을 수혜한 학기로 연도와 학기를 수정하세요)*
-* **Description:** Awarded for achieving outstanding academic performance and demonstrating high diligence, ranking within the top tier of the department.
+**National Scholarship (Type I)** *Korea Student Aid Foundation (KOSAF)*
+* **Period:** Spring 2026 / Multiple Semesters *(Spring/Fall 2021, Spring 2022, Total of 5 semesters since Spring 2020)*
+* **Description:** Continuous recipient of government-funded academic scholarships, awarded full tuition waivers and significant tuition reductions for consistently maintaining rigorous academic and GPA criteria.
+
+**Gyeocheok Academic Scholarship (Type C1 & C2)** *Gyeongsang National University (GNU)*
+* **Period:** Fall 2020 / Fall 2021
+* **Description:** Awarded for outstanding academic performance and satisfying rigorous university scholarship criteria; granted tuition waivers for high-achieving undergraduate students.
+
+**Extracurricular Excellence Scholarship (Type D)** *Gyeongsang National University (GNU)*
+* **Period:** Fall 2020
+* **Description:** Received a merit-based stipend for outstanding performance and proactive engagement in university-led competency enhancement programs.
 
 **Encouragement Award (Bronze Prize) in Creative Embedded System Competition** *Engineering Education Innovation Center, GNU*
 * **Date:** August 2020
