@@ -3,7 +3,7 @@
 ## TAE-YOON KANG
 * **Address:** Gyeongsangnam-do, Republic of Korea
 * **Phone:** +82-10-3679-3697
-* **Email:** kangtty1010@gmail.com
+* **Email:** kangty1010.com
 * **GitHub/LinkedIn:** https://github.com/Taeyoonkin1g
 
 ---
@@ -57,5 +57,6 @@
 
 ### TECHNICAL SKILLS
 * **Semiconductors & Circuits:** BJT/MOSFET Bias & Multi-stage Amplifier Analysis, Semiconductor Device Physics Principles, Packaging Reliability Concepts
+* **Engineering Simulation (1+ Year Experience):** Cadence PSpice (Proficient in DC/AC Sweep, Transient Analysis, and Parametric Variations for electronic circuit verification)
 * **Hardware & Embedded Systems:** Raspberry Pi Architecture, Embedded C Programming, DAQ Firmware Setup, Interface Buses (SPI, I2C)
-* **Analysis & Simulation:** Statistical Data Processing (Hypothesis Testing), Circuit Simulation (PSpice/LTspice), MATLAB Foundations
+* **Analysis & Data Tools:** Statistical Data Processing (Hypothesis Testing), MATLAB Foundations
