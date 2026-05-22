@@ -1,28 +1,30 @@
-# Cover Letter for Prof. Jong-Won Lee (UNIST)
+# Cover Letter for Prof. Jaejun Kim (UNIST)
 
-**Subject:** [Undergraduate Research Assistant Application] Semiconductor Packaging Scholarship Student – Tae-Yoon Kang
+**Target Email:** jaejoon@unist.ac.kr
+**Subject:** [Research RA Application] Electronics Student Proficient in Embedded DAQ & Sensor Interfacing – Tae-Yoon Kang
 
-Dear Professor Lee,
+Dear Professor Kim,
 
 I hope this email finds you well.
 
-My name is Tae-Yoon Kang, a 3rd-year undergraduate student majoring in Electronic Engineering at Gyeongsang National University (GNU). I am writing to express my sincere interest in joining your Nano-Optoelectronic Devices and Systems Laboratory as an Undergraduate Research Assistant for the upcoming semester and winter internship.
+My name is Tae-Yoon Kang, a 3rd-year undergraduate student majoring in Electronic Engineering at Gyeongsang National University (GNU). I am writing to express my sincere interest in joining your Circuits and Systems Design Laboratory (CSDL) at the Department of Electrical Engineering as an Undergraduate Research Assistant.
 
-Recently, I was honored to be selected as a scholarship recipient of the "Extreme Environment Semiconductor Packaging Convergence Major," supported by the ULTRA Semiconductor Specialized University Project Group. This opportunity has deeply motivated me to pursue advanced studies in next-generation semiconductor reliability, focusing on how packaging architectures withstand extreme thermal and mechanical stress profiles.
+As a recipient of the "Extreme Environment Semiconductor Packaging Convergence Major" scholarship, I have established a solid academic foundation in electronic hardware. I am highly eager to transition this knowledge into the domain of low-power sensor interface platforms and wearable healthcare integration, which are core pillars of your laboratory's pioneering research.
 
-Across my academic journey, I have developed foundational strengths that align with your laboratory's research:
+My technical background and hands-on engineering experiences align closely with your system integration focus:
 
-* **Circuit Simulation & Analysis:** Proficient in using Cadence PSpice, executing DC/AC sweep, transient response, and parametric analysis to verify electronic circuit behavior.
-* **Hardware Interfacing & Data Handling:** Experienced in building embedded DAQ prototypes on Raspberry Pi, implementing SPI protocols, and calibrating physical sensors using the Time-of-Flight (ToF) principle to extract exact dimensional metrics within reliable error margins.
+* **Embedded Hardware Interfacing:** Experienced in designing and building custom hardware DAQ prototypes utilizing Raspberry Pi. I have hands-on experience programming peripheral serial communications via SPI with ADC (MCP3008) architectures to track analog sensor streams.
+* **Signal Calibration & Handling:** Developed a real-time dimensional measurement platform based on the Time-of-Flight (ToF) principle, successfully implementing firmware algorithms to manage exact physical data extraction within precise error tolerances.
+* **Circuit Verification:** Proficient in using Cadence PSpice to conduct DC/AC sweep, transient analysis, and parametric evaluations to model system-level circuit behaviors.
 
-Notably, during the Fall 2020 semester, I focused intensely on core engineering principles, achieving a GPA of 3.94/4.5 (ranked 15/43) and securing the Gyeocheok Academic Scholarship. Recognized with both a Competition Bronze Prize and a University Non-Curricular Merit Scholarship for my embedded ToF prototype, I have proven my capacity to handle rigorous technical challenges. 
+During the Fall 2020 semester, my academic commitment resulted in a GPA of 3.94/4.5 (ranked 15/43), earning the Gyeocheok Academic Scholarship. Furthermore, my embedded ToF design was awarded a Competition Bronze Prize and a University Non-Curricular Merit Scholarship, confirming my practical capability to engineer functional electronic solutions.
 
-Having recently returned to academia after fulfilling my mandatory military service (2024–2025), I am highly eager to apply this academic discipline and my background in automated hardware characterization to your laboratory's ongoing research—particularly in high-precision sensor data acquisition (DAQ) architectures, real-time signal interfacing, and physical characterization setups.
+Having recently completed my mandatory military service (2024–2025), I am returning to research with elevated focus and dedication. I am highly motivated to apply my skills in embedded firmware, serial tracking (SPI/I2C), and sensor interface automation to support CSDL's advanced IC and system design goals.
 
-My detailed academic profile and core project tracking are fully documented and continuously updated on my GitHub repository:
+My complete academic trajectory and project details are hosted on my GitHub repository:
 * **Academic Portfolio (GitHub):** https://github.com/Taeyoonkin1g/my-cv
 
-I would be deeply grateful for the opportunity to meet with you briefly to discuss how my academic trajectory aligns with your research goals. Attached please find my official academic transcript for your review. Thank you very much for your time and consideration.
+I would appreciate the opportunity to discuss how my experience in custom hardware DAQ setups can contribute to your laboratory's research initiatives. Attached is my official academic transcript for your review. Thank you for your consideration.
 
 Sincerely,
 
