@@ -27,26 +27,22 @@
 ---
 
 ## SCHOLARSHIPS & ACADEMIC HONORS
+
 **Extreme Environment Semiconductor Packaging Convergence Major Scholarship** *ULTRA Semiconductor Specialized University Project Group, GNU*
 * **Period:** March 2026 – Present
 * **Description:** Awarded a specialized merit-based scholarship aligned with regional strategic industries (Aerospace, Defense, and Green Mobility). Focusing on next-generation packaging architectures designed to withstand extreme thermal, mechanical, and radiation stress profiles.
 
-**National Scholarship (Type I)** *Korea Student Aid Foundation (KOSAF)*
-* **Period:** Spring 2026 / Multiple Semesters *(Spring/Fall 2021, Spring 2022, Total of 5 semesters since Spring 2020)*
-* **Description:** Continuous recipient of government-funded academic scholarships, awarded full tuition waivers and significant tuition reductions for consistently maintaining rigorous academic and GPA criteria.
-
 **Gyeocheok Academic Scholarship (Type C1 & C2)** *Gyeongsang National University (GNU)*
 * **Period:** Fall 2020 / Fall 2021
-* **Description:** Awarded for outstanding academic performance and satisfying rigorous university scholarship criteria; granted tuition waivers for high-achieving undergraduate students.
+* **Description:** Awarded for outstanding academic performance and satisfying rigorous university scholarship criteria; granted tuition waivers reserved for high-achieving undergraduate students within the department.
 
 **Extracurricular Excellence Scholarship (Type D)** *Gyeongsang National University (GNU)*
 * **Period:** Fall 2020
-* **Description:** Received a merit-based stipend for outstanding performance and proactive engagement in university-led competency enhancement programs.
+* **Description:** Received a merit-based stipend for outstanding performance and proactive engagement in university-led engineering competency enhancement programs.
 
 **Encouragement Award (Bronze Prize) in Creative Embedded System Competition** *Engineering Education Innovation Center, GNU*
 * **Date:** August 2020
 * **Description:** Completed an intensive educational program on hardware control programming. Honored for excellence in firmware prototype development utilizing the Raspberry Pi platform.
-
 ---
 
 ## PROJECTS & RESEARCH EXPERIENCE
