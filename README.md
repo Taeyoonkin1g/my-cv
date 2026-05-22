@@ -58,7 +58,7 @@
 * **Period:** April 2026 – Present
 * **Focus:** Performing comprehensive literature reviews on semiconductor device degradation mechanisms, focusing on I-V/C-V curves under extreme operational stress profiles to understand thermal/mechanical wearout.
 
----_
+---
 
 ## TECHNICAL SKILLS
 * **Semiconductors & Circuits:** BJT/MOSFET Bias & Multi-stage Amplifier Analysis, Semiconductor Device Physics Principles, Packaging Reliability Concepts
@@ -68,9 +68,9 @@
 
 ---
 
-## APPENDIX: EMAIL COVER LETTER TEMPLATE
+## APPENDIX: MASTER EMAIL COVER LETTER TEMPLATE
 
-**Subject:** Undergraduate Research Assistant Application – Tae-Yoon Kang (Electronic Engineering)
+**Subject:** [Research Assistant Application] Semiconductor Packaging Scholarship Student – Tae-Yoon Kang
 
 Dear Professor [Professor's Last Name],
 
@@ -85,7 +85,7 @@ Across my academic journey, I have developed foundational strengths that align w
 * **Circuit Simulation & Analysis:** Over 1 year of experience with Cadence PSpice, proficient in DC/AC sweep, transient response, and parametric analysis to verify electronic circuit behavior.
 * **Hardware Implementation & Data Processing:** Configured real-time Data Acquisition (DAQ) systems using Raspberry Pi, optimizing SPI/I2C protocols to ensure signal integrity, and applied statistical hypothesis testing to filter experimental noise.
 
-Notably, during the Fall 2020 semester, I focused intensely on core engineering principles, achieving a GPA of 3.94/4.5 (ranked 15/43) and securing both the Gyeocheok Academic Scholarship and the Extracurricular Excellence Scholarship simultaneously. I am highly eager to apply this academic discipline, along with my background in DAQ setup and PSpice modeling, to your laboratory's ongoing research—particularly in evaluating semiconductor device degradation, configuring characterization setups, and analyzing I-V/C-V characteristics under stress.
+Notably, during the Fall 2020 semester, I focused intensely on core engineering principles, achieving a GPA of 3.94/4.5 (ranked 15/43) and securing both the Gyeocheok Academic Scholarship and the Extracurricular Excellence Scholarship simultaneously. I am highly eager to apply this academic discipline, along with my background in DAQ setup and statistical data processing, to your laboratory's ongoing research—particularly in **[Insert Laboratory's Target Device/Material, e.g., wide bandgap device degradation]**, configuring characterization setups, and analyzing I-V/C-V characteristics under stress conditions.
 
 My detailed academic profile and core project tracking are fully documented and continuously updated on my GitHub repository:
 * **Academic Portfolio (GitHub):** [Taeyoonkin1g/my-cv](https://github.com/Taeyoonkin1g/my-cv)
@@ -94,8 +94,8 @@ I would be deeply grateful for the opportunity to meet with you briefly to discu
 
 Sincerely,
 
-Tae-Yoon Kang<br>
-Department of Electronic Engineering<br>
-Gyeongsang National University<br>
-Email: kangty1010@gmail.com<br>
+Tae-Yoon Kang  
+Department of Electronic Engineering  
+Gyeongsang National University  
+Email: kangty1010@gmail.com  
 Phone: +82-10-3679-3697
