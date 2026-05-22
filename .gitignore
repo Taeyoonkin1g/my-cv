@@ -1,3 +1,7 @@
+# DGIST 및 UNIST 맞춤형 커버레터 파일 일괄 블로킹
+DGIST_*.md
+UNIST_*.md
 
+# 파이썬 자동화 임시 스크리닝 파일 제외
 
-split.py
+split.py    
