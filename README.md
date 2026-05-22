@@ -20,6 +20,7 @@
 **Gyeongsang National University (GNU)**, Jinju, South Korea  
 *Bachelor of Science in Electronic Engineering*
 * **Period:** March 2020 – Present (3rd Year Undergraduate)
+* **Academic Status:** Returned to academic study after fulfilling mandatory military service (2024–2025) and general leave of absence (2022–2023).
 * **Cumulative GPA:** 3.34 / 4.5
 * **Core Engineering Coursework:** Electronic Circuits & Lab, Circuit Analysis, Electromagnetic Fields, Digital Engineering & Lab, Communication Systems, Probability and Statistical Hypothesis Testing
 * **Academic Competence:** Demonstrates solid analytical skills in BJT/MOSFET biasing, multi-stage amplifier response, and system-level circuit analysis. Experienced in verifying engineering data distributions using two-sample statistical tests.
@@ -27,7 +28,6 @@
 ---
 
 ## SCHOLARSHIPS & ACADEMIC HONORS
-
 **Extreme Environment Semiconductor Packaging Convergence Major Scholarship** *ULTRA Semiconductor Specialized University Project Group, GNU*
 * **Period:** March 2026 – Present
 * **Description:** Awarded a specialized merit-based scholarship aligned with regional strategic industries (Aerospace, Defense, and Green Mobility). Focusing on next-generation packaging architectures designed to withstand extreme thermal, mechanical, and radiation stress profiles.
@@ -43,6 +43,7 @@
 **Encouragement Award (Bronze Prize) in Creative Embedded System Competition** *Engineering Education Innovation Center, GNU*
 * **Date:** August 2020
 * **Description:** Completed an intensive educational program on hardware control programming. Honored for excellence in firmware prototype development utilizing the Raspberry Pi platform.
+
 ---
 
 ## PROJECTS & RESEARCH EXPERIENCE
@@ -87,7 +88,7 @@ Across my academic journey, I have developed foundational strengths that align w
 I am highly eager to apply this background in DAQ hardware setup, statistical data processing, and PSpice modeling to your laboratory's ongoing research projects—particularly in evaluating device degradation and analyzing I-V/C-V characteristics. I believe my proactive attitude and engineering foundations will allow me to contribute meaningfully to your team.
 
 My detailed academic profile and core project tracking are fully documented and continuously updated on my GitHub repository:
-* **Academic Portfolio (GitHub):** https://github.com/Taeyoonkin1g/my-cv
+* **Academic Portfolio (GitHub):** [Taeyoonkin1g/my-cv](https://github.com/Taeyoonkin1g/my-cv)
 
 I would be deeply grateful for the opportunity to meet with you briefly to discuss how my academic trajectory aligns with your research goals. Thank you very much for your time and consideration.
 
