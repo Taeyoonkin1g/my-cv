@@ -22,8 +22,9 @@
 * **Period:** March 2020 – Present (3rd Year Undergraduate)
 * **Academic Status:** Returned to academic study after fulfilling mandatory military service (2024–2025) and general leave of absence (2022–2023).
 * **Cumulative GPA:** 3.34 / 4.5  *(Major GPA: 3.04 / 4.5)*
-* **Core Coursework (Completed):** * *Freshman Year (2020):* Introduction to Semiconductor Design, Computer Programming Languages (C/C++), Engineering Mathematics 1
-  * *Sophomore Year (2021):* Circuit Analysis 1 & 2, Digital Engineering & Lab, Basic Electronics Laboratory, Electronic Circuits Laboratory, Electromagnetic Fields 1
+* **Core Coursework (Completed):**
+  * *Freshman Year (2020):* Introduction to Electronic Engineering (Grade: A+), Engineering Mathematics 1, Computer Programming Languages (C/C++)
+  * *Sophomore Year (2021):* Circuit Theory 1 & 2 (회로해석론), Introduction to Semiconductor Design, Digital Engineering & Lab, Basic Electronics Laboratory, Electronic Circuits Laboratory, Electromagnetic Fields 1
 * **Core Coursework (In Progress - Spring 2026):** Electronic Circuits, Communication Systems, Electromagnetic Fields 2
 * **Academic Competence:** Demonstrates solid analytical skills in BJT/MOSFET biasing, multi-stage amplifier response, and system-level circuit analysis. Experienced in verifying engineering data distributions using two-sample statistical tests.
 ---
