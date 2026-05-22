@@ -37,6 +37,10 @@
 * **Period:** March 2026 – Present
 * **Description:** Awarded a specialized merit-based scholarship for next-generation packaging architectures designed to withstand extreme thermal, mechanical, and radiation stress profiles.
 
+**University Non-Curricular Merit Scholarship (비교과 장학금)** | *Engineering Education Innovation Center, GNU*
+* **Date:** August 2020
+* **Description:** Successfully secured a competitive university merit-based stipend awarded to top-performing students for exceptional performance and active technical engagement in the advanced hardware development track.
+
 **Gyeocheok Academic Scholarship (Type C1 & C2)** | *Gyeongsang National University (GNU)*
 * **Period:** Fall 2020 / Fall 2021
 * **Description:** Awarded competitive university scholarships for achieving top-tier academic excellence.
@@ -54,7 +58,7 @@
   * Implemented a real-time Data Acquisition (DAQ) architecture using **Raspberry Pi and SPI-linked MCP3008 ADC** to interface high-precision sensor setups.
   * Developed embedded Python firmware utilizing the **Time-of-Flight (ToF) principle**, converting the round-trip propagation time of ultrasonic waves into highly accurate object dimensions.
   * Designed a calibration algorithm to mathematically calculate the exact **Width (Length) and Height** of physical objects within strict tolerance/error margins.
-  * Handled hardware signal interfacing and optimized software routines to ensure stable continuous data streaming and noise filtering during dynamic environment monitoring.
+  * Recognized with both a **Competition Bronze Prize** and a **University Non-Curricular Merit Scholarship** for outperforming benchmarks in system integration and sensor measurement stability.
 
 **Undergraduate Research Internship Preparation & Literature Survey** | *Pre-internship Focus*
 * **Period:** April 2026 – Present
@@ -97,6 +101,4 @@ Sincerely,
 
 Tae-Yoon Kang  
 Department of Electronic Engineering  
-Gyeongsang National University  
-Email: kangty1010@gmail.com  
-Phone: +82-10-3679-3697
+Gyeongsang National University
