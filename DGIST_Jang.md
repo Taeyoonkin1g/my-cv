@@ -1,12 +1,13 @@
 # Cover Letter for Prof. Jae-Eun Jang (DGIST)
 
+**Target Email:** jjg0202@dgist.ac.kr
 **Subject:** [Undergraduate Research Assistant Application] Semiconductor Packaging Scholarship Student – Tae-Yoon Kang
 
 Dear Professor Jang,
 
 I hope this email finds you well.
 
-My name is Tae-Yoon Kang, a 3rd-year undergraduate student majoring in Electronic Engineering at Gyeongsang National University (GNU). I am writing to express my sincere interest in joining your Next-Generation Semiconductor Device and Nano-Measurement Laboratory as an Undergraduate Research Assistant for the upcoming semester and winter internship.
+My name is Tae-Yoon Kang, a 3rd-year undergraduate student majoring in Electronic Engineering at Gyeongsang National University (GNU). I am writing to express my sincere interest in joining your Next-Generation Semiconductor Device and Nano-Measurement Laboratory at the Department of Electrical Engineering and Computer Science (EECS) as an Undergraduate Research Assistant for the upcoming semester and winter internship.
 
 Recently, I was honored to be selected as a scholarship recipient of the "Extreme Environment Semiconductor Packaging Convergence Major," supported by the ULTRA Semiconductor Specialized University Project Group. This opportunity has deeply motivated me to pursue advanced studies in next-generation semiconductor reliability, focusing on how packaging architectures withstand extreme thermal and mechanical stress profiles.
 
