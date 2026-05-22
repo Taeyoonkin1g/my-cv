@@ -60,3 +60,39 @@
 * **Engineering Simulation (1+ Year Experience):** Cadence PSpice (Proficient in DC/AC Sweep, Transient Analysis, and Parametric Variations for electronic circuit verification)
 * **Hardware & Embedded Systems:** Raspberry Pi Architecture, Embedded C Programming, DAQ Firmware Setup, Interface Buses (SPI, I2C)
 * **Analysis & Data Tools:** Statistical Data Processing (Hypothesis Testing), MATLAB Foundations
+
+
+
+
+
+
+---
+
+## APPENDIX: EMAIL COVER LETTER TEMPLATE
+
+**Subject:** Undergraduate Research Assistant Application – Tae-Yoon Kang (Electronic Engineering)
+
+Dear Professor [Professor's Last Name],
+
+I hope this email finds you well.
+
+My name is Tae-Yoon Kang, a 3rd-year undergraduate student majoring in Electronic Engineering at Gyeongsang National University (GNU). I am writing to express my sincere interest in joining your esteemed research laboratory as an Undergraduate Research Assistant, with a particular focus on the upcoming semester and winter internship.
+
+Recently, I was honored to be selected as a scholarship recipient of the "Extreme Environment Semiconductor Packaging Convergence Major," supported by the ULTRA Semiconductor Specialized University Project Group. This opportunity has deeply motivated me to pursue advanced studies in next-generation semiconductor reliability, focusing on how packaging architectures withstand thermal and mechanical stress profiles in aerospace and automotive applications.
+
+Throughout my undergraduate coursework, I have built a solid foundation in electronic circuits, device physics, and statistical data processing. In particular, I have over one year of experience utilizing Cadence PSpice for precise circuit simulations, including DC/AC sweep and transient response analysis. Furthermore, I have successfully designed and configured a real-time Data Acquisition (DAQ) system using the Raspberry Pi platform, optimizing SPI/I2C protocols to maintain signal integrity.
+
+I am highly eager to apply my background in DAQ hardware setup and PSpice modeling to your laboratory's ongoing research projects. I believe that my proactive attitude and engineering foundations will allow me to contribute meaningfully to your team.
+
+My detailed academic profile and core project tracking are fully documented and continuously updated on my GitHub repository:
+* **Academic Portfolio (GitHub):** https://github.com/Taeyoonkin1g/my-cv
+
+I would be deeply grateful for the opportunity to meet with you briefly to discuss how my academic trajectory aligns with your research goals. Thank you very much for your time and consideration.
+
+Sincerely,
+
+Tae-Yoon Kang  
+Department of Electronic Engineering  
+Gyeongsang National University  
+Email: [Your Email Address]  
+Phone: [Your Phone Number]
