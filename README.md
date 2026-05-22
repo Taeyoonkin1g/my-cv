@@ -16,14 +16,14 @@
 
 ---
 
-## EDUCATION
-**Gyeongsang National University (GNU)**, Jinju, South Korea  
+### EDUCATION
+**Gyeongsang National University (GNU)**, Jinju, South Korea
 *Bachelor of Science in Electronic Engineering*
-* **Period:** March 2020 – Present (3rd Year Undergraduate)
-* **Academic Status:** Returned to academic study after fulfilling mandatory military service (2024–2025) and general leave of absence (2022–2023).
+* **Period:** March 2021 – Present (3rd Year Undergraduate)
 * **Cumulative GPA:** 3.34 / 4.5
-* **Core Engineering Coursework:** Electronic Circuits & Lab, Circuit Analysis, Electromagnetic Fields, Digital Engineering & Lab, Communication Systems, Probability and Statistical Hypothesis Testing
-* **Academic Competence:** Demonstrates solid analytical skills in BJT/MOSFET biasing, multi-stage amplifier response, and system-level circuit analysis. Experienced in verifying engineering data distributions using two-sample statistical tests.
+* **Core Coursework (Completed):** Circuit Analysis 1 & 2, Introduction to Semiconductor Design, Digital Engineering & Lab, Basic Electronics Laboratory, Electronic Circuits Laboratory, Computer Programming Languages (C/C++), Engineering Mathematics 1, Electromagnetic Fields 1
+* **Core Coursework (In Progress - Spring 2026):** Electronic Circuits, Communication Systems, Electromagnetic Fields 2
+* **Academic Competence:** Demonstrates a solid theoretical foundation in BJT/MOSFET biasing profiles, multi-stage network parameter extraction, and fundamental semiconductor structures. Highly competent in validating behavioral circuit responses using PSpice and processing embedded hardware interface protocols.
 
 ---
 
