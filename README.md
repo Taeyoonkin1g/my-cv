@@ -3,7 +3,7 @@
 ## TAE-YOON KANG
 * **Address:** Gyeongsangnam-do, Republic of Korea
 * **Phone:** +82-10-3679-3697
-* **Email:** kangty1010@gmail.com
+* **Email:** kangtty1010@gmail.com
 * **GitHub/LinkedIn:** https://github.com/Taeyoonkin1g
 
 ---
