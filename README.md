@@ -28,33 +28,33 @@
 ---
 
 ## SCHOLARSHIPS & ACADEMIC HONORS
-**Extreme Environment Semiconductor Packaging Convergence Major Scholarship** *ULTRA Semiconductor Specialized University Project Group, GNU*
+**Extreme Environment Semiconductor Packaging Convergence Major Scholarship** | *ULTRA Semiconductor Specialized University Project Group, GNU*
 * **Period:** March 2026 – Present
 * **Description:** Awarded a specialized merit-based scholarship aligned with regional strategic industries (Aerospace, Defense, and Green Mobility). Focusing on next-generation packaging architectures designed to withstand extreme thermal, mechanical, and radiation stress profiles.
 
-**Gyeocheok Academic Scholarship (Type C1 & C2)** *Gyeongsang National University (GNU)*
+**Gyeocheok Academic Scholarship (Type C1 & C2)** | *Gyeongsang National University (GNU)*
 * **Period:** Fall 2020 / Fall 2021
 * **Description:** Awarded for outstanding academic performance and satisfying rigorous university scholarship criteria; granted tuition waivers reserved for high-achieving undergraduate students within the department.
 
-**Extracurricular Excellence Scholarship (Type D)** *Gyeongsang National University (GNU)*
+**Extracurricular Excellence Scholarship (Type D)** | *Gyeongsang National University (GNU)*
 * **Period:** Fall 2020
 * **Description:** Received a merit-based stipend for outstanding performance and proactive engagement in university-led engineering competency enhancement programs.
 
-**Encouragement Award (Bronze Prize) in Creative Embedded System Competition** *Engineering Education Innovation Center, GNU*
+**Encouragement Award (Bronze Prize) in Creative Embedded System Competition** | *Engineering Education Innovation Center, GNU*
 * **Date:** August 2020
 * **Description:** Completed an intensive educational program on hardware control programming. Honored for excellence in firmware prototype development utilizing the Raspberry Pi platform.
 
 ---
 
 ## PROJECTS & RESEARCH EXPERIENCE
-**Real-time Data Acquisition (DAQ) & Hardware Control System Implementation** *Undergraduate Academic Project*
+**Real-time Data Acquisition (DAQ) & Hardware Control System Implementation** | *Undergraduate Academic Project*
 * **Period:** March 2025 – December 2025
 * **Role & Contributions:**
   * Designed firmware routines for real-time sensor monitoring to acquire physical environmental data.
   * Configured and analyzed SPI/I2C serial communication protocols between peripheral components and embedded processors to ensure signal integrity.
   * Applied statistical data analysis techniques (Hypothesis Testing) to filter experimental noise and validate structural measurements.
 
-**Undergraduate Research Internship Preparation & Literature Survey** *Pre-internship Focus*
+**Undergraduate Research Internship Preparation & Literature Survey** | *Pre-internship Focus*
 * **Period:** April 2026 – Present
 * **Focus:** Performing comprehensive literature reviews on semiconductor device degradation mechanisms, focusing on I-V/C-V curves under extreme operational stress profiles to understand thermal/mechanical wearout.
 
@@ -94,8 +94,6 @@ I would be deeply grateful for the opportunity to meet with you briefly to discu
 
 Sincerely,
 
-Tae-Yoon Kang  
-Department of Electronic Engineering  
-Gyeongsang National University  
-Email: kangty1010@gmail.com  
-Phone: +82-10-3679-3697
+Tae-Yoon Kang<br>
+Department of Electronic Engineering<br>
+Gyeongsang National University<br>
