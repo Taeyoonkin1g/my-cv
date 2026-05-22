@@ -19,7 +19,7 @@
 ## EDUCATION
 **Gyeongsang National University (GNU)**, Jinju, South Korea  
 *Bachelor of Science in Electronic Engineering*
-* **Period:** March 2021 – Present (3rd Year Undergraduate)
+* **Period:** March 2020 – Present (3rd Year Undergraduate)
 * **Cumulative GPA:** 3.34 / 4.5
 * **Core Engineering Coursework:** Electronic Circuits & Lab, Circuit Analysis, Electromagnetic Fields, Digital Engineering & Lab, Communication Systems, Probability and Statistical Hypothesis Testing
 * **Academic Competence:** Demonstrates solid analytical skills in BJT/MOSFET biasing, multi-stage amplifier response, and system-level circuit analysis. Experienced in verifying engineering data distributions using two-sample statistical tests.
