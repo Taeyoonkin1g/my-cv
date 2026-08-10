@@ -22,12 +22,12 @@
 ### Gyeongsang National University (GNU), Jinju, South Korea
 
 **B.S. in Electronic Engineering**  
-**Convergence Major: Extreme Environment Semiconductor Packaging**
+**Double Major: Extreme Environment Semiconductor Packaging**
 
 **March 2020 – Present**
 
-- **Cumulative GPA:** 3.34 / 4.5
-- **Major GPA:** 3.04 / 4.5
+- **Cumulative GPA:** 3.25 / 4.5
+- **Credits Earned:** 90.5
 - **Academic Highlight:** GPA 3.94 / 4.5, ranked 15th out of 43 students (Fall 2020)
 
 ### Selected Coursework
@@ -38,8 +38,9 @@
 - Introduction to Semiconductor Design
 - Basic Electronics Laboratory
 - Electronic Circuits Laboratory
-- Electromagnetic Fields 1 & 2
+- Electromagnetic Fields 1
 - Communication Systems
+- Signal and Systems
 - Computer Programming Languages (C/C++)
 
 ---
@@ -47,8 +48,9 @@
 ## RESEARCH EXPERIENCE
 
 ### Research Intern | Gwangju Institute of Science and Technology (GIST)
+
 **Graduate School of AI Policy and Strategy**  
-**July 2026 – August 2026**
+**July 2026 – Present**
 
 - Participated in research activities related to **FPGA-based Spiking Neural Network (SNN) accelerator implementation and neuromorphic computing**.
 - Conducted **HLS-based hardware synthesis and FPGA resource utilization analysis**.
@@ -61,13 +63,14 @@
 ## PROJECTS
 
 ### Ultrasonic Time-of-Flight (ToF) Based Real-Time Dimensional Measurement System
+
 **Gyeongsang National University – Creative Embedded System Competition**  
 **July 2020 – August 2020**
 
 - Developed a **Raspberry Pi-based embedded measurement system** using ultrasonic sensors.
 - Implemented **Python-based GPIO control** for real-time ultrasonic distance measurement.
-- Integrated **HC-SR04 ultrasonic sensors, Raspberry Pi, and 16×2 LCD display** for measurement and visualization.
-- Processed sensor measurements to estimate physical object dimensions.
+- Integrated **HC-SR04 ultrasonic sensors, Raspberry Pi, and a 16×2 LCD display** for measurement and visualization.
+- Processed sensor measurements to estimate physical object dimensions in real time.
 - Received the **Bronze Prize** in the Creative Embedded System Competition.
 
 **GitHub:**  
@@ -78,24 +81,28 @@ https://github.com/Taeyoonkin1g/Ultrasonic-ToF-Dimension-Measurement
 ## SCHOLARSHIPS & AWARDS
 
 ### Extreme Environment Semiconductor Packaging Convergence Major Scholarship
+
 **ULTRA Semiconductor Specialized University Project Group, GNU**  
 **March 2026 – Present**
 
 - Selected for the Extreme Environment Semiconductor Packaging Convergence Major and awarded a merit-based scholarship.
 
 ### University Non-Curricular Merit Scholarship
+
 **Engineering Education Innovation Center, GNU**  
 **August 2020**
 
 - Awarded for outstanding performance in an engineering education program.
 
 ### Gyeocheok Academic Scholarship (Type C1 & C2)
+
 **Gyeongsang National University**  
 **Fall 2020 / Fall 2021**
 
 - Awarded based on academic performance.
 
 ### Bronze Prize – Creative Embedded System Competition
+
 **Engineering Education Innovation Center, GNU**  
 **August 2020**
 
@@ -106,6 +113,7 @@ https://github.com/Taeyoonkin1g/Ultrasonic-ToF-Dimension-Measurement
 ## TECHNICAL SKILLS
 
 ### FPGA & Hardware
+
 - Vivado / Vitis HLS
 - High-Level Synthesis (HLS)
 - FPGA Resource Utilization Analysis
@@ -113,6 +121,7 @@ https://github.com/Taeyoonkin1g/Ultrasonic-ToF-Dimension-Measurement
 - Basic SNN / Neuromorphic Hardware Concepts
 
 ### Embedded Systems
+
 - Raspberry Pi
 - Python
 - GPIO
@@ -120,6 +129,7 @@ https://github.com/Taeyoonkin1g/Ultrasonic-ToF-Dimension-Measurement
 - Embedded Hardware Integration
 
 ### Circuit & Semiconductor
+
 - Cadence PSpice
 - DC / AC Sweep
 - Transient Analysis
@@ -128,6 +138,9 @@ https://github.com/Taeyoonkin1g/Ultrasonic-ToF-Dimension-Measurement
 - I-V / C-V Curve Analysis
 
 ### Programming & Tools
+
 - Python
 - C / C++
 - Git / GitHub
+- Vivado / Vitis HLS
+- Cadence PSpice
