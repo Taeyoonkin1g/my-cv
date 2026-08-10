@@ -78,16 +78,22 @@
 
 *July 2026 – Present*
 
-- Participated in research activities related to **FPGA-based Spiking Neural Network (SNN) accelerator implementation** and neuromorphic computing.
-- Conducted **HLS-based hardware synthesis** and analyzed FPGA resource utilization to evaluate hardware implementation characteristics.
-- Performed **code-level modifications and iterative synthesis experiments** to investigate hardware resource optimization.
-- Reviewed synthesis results and hardware resource utilization reports as part of an iterative hardware development workflow.
-- Explored **LLM-assisted code transformation** in hardware-oriented development workflows.
-- Conducted literature review on **Spiking Neural Networks and neuromorphic hardware architectures**, focusing on understanding key concepts, architectures, and implementation approaches.
-- Supported research involving **LLM bias analysis**, including literature screening, qualitative data coding, sentence labeling, and data labeling.
-- Gained practical experience working with research-oriented workflows involving hardware implementation, technical literature review, and data analysis.
+#### FPGA / SNN / Neuromorphic Hardware
 
-> **Note:** This section intentionally describes the research experience at a broad level and does not disclose internal source code, detailed implementation methods, unpublished results, or research-specific data.
+- Participated in research activities related to **FPGA-based Spiking Neural Network (SNN) accelerator implementation** and neuromorphic computing.
+- Conducted **HLS-based hardware synthesis** and analyzed FPGA resource utilization as part of the hardware implementation workflow.
+- Performed **code-level modifications and iterative synthesis experiments** to investigate hardware resource optimization.
+- Reviewed synthesis results and FPGA resource utilization reports to understand implementation characteristics and resource requirements.
+- Explored **LLM-assisted code transformation** in hardware-oriented development workflows.
+- Conducted literature review on **Spiking Neural Networks and neuromorphic hardware architectures**, focusing on key concepts, architectures, and hardware implementation approaches.
+
+#### LLM Bias Analysis
+
+- Supported research on **LLM bias analysis** during the initial phase of the internship.
+- Conducted **academic literature screening** to identify relevant research and organize technical findings.
+- Performed **qualitative data coding and sentence-level labeling** according to a predefined research framework.
+- Supported **codebook verification and data organization** for subsequent analysis.
+- Gained practical experience with research workflows involving literature review, qualitative coding, structured data labeling, and LLM-related research.
 
 ---
 
@@ -99,14 +105,20 @@
 
 *July 2020 – August 2020*
 
+#### Project Overview
+
+Developed an embedded measurement system using Raspberry Pi and ultrasonic sensing to estimate physical object dimensions in real time.
+
+#### Contributions
+
 - Developed a **Raspberry Pi-based embedded measurement system** using HC-SR04 ultrasonic sensors.
-- Implemented **Python-based GPIO control** for ultrasonic sensor interfacing and real-time distance measurement.
+- Implemented **Python-based GPIO control** for ultrasonic sensor interfacing and distance measurement.
 - Applied the **Time-of-Flight (ToF) principle** to estimate the distance between the sensor and the target object.
 - Integrated ultrasonic sensors, Raspberry Pi hardware, a 16×2 LCD display, breadboard circuitry, and jumper-wire connections.
-- Processed sensor measurements to estimate physical object dimensions in real time.
-- Displayed measurement results through the 16×2 LCD interface.
+- Processed sensor measurements to estimate physical object dimensions.
+- Displayed measurement results through the LCD interface.
 - Performed basic sensor measurement and calibration during the experimental process.
-- Gained practical experience in embedded programming, sensor interfacing, hardware integration, and measurement-system development.
+- Gained practical experience in embedded programming, sensor interfacing, hardware integration, measurement systems, and experimental debugging.
 - Received the **Bronze Prize** in the Creative Embedded System Competition.
 
 **GitHub Repository:**  
@@ -116,13 +128,13 @@
 
 ## 💻 TECHNICAL SKILLS
 
-### **FPGA & Hardware Acceleration**
+### **Hardware & FPGA**
 
 - Vivado / Vitis HLS
 - High-Level Synthesis (HLS)
 - FPGA Resource Utilization Analysis
 - Hardware Resource Optimization
-- Synthesis and Implementation Workflow
+- Synthesis and Hardware Implementation Workflow
 - Basic SNN / Neuromorphic Hardware Concepts
 
 ### **Embedded Systems**
@@ -133,7 +145,7 @@
 - HC-SR04 Ultrasonic Sensors
 - 16×2 LCD Interface
 - Embedded Hardware Integration
-- Sensor Measurement and Calibration
+- Sensor Measurement and Basic Calibration
 
 ### **Circuit & Semiconductor**
 
@@ -141,7 +153,7 @@
 - DC / AC Sweep
 - Transient Analysis
 - Parametric Analysis
-- Semiconductor Device Characterization
+- Basic Semiconductor Device Characterization
 - I-V / C-V Curve Analysis
 - Basic Semiconductor Device Physics
 
@@ -166,7 +178,7 @@
 ### **Hardware Synthesis & Analysis**
 
 - Worked with HLS-based hardware development workflows involving source-code modification, synthesis, and resource utilization analysis.
-- Examined synthesis reports to understand hardware resource usage and implementation characteristics.
+- Examined synthesis reports to understand FPGA resource usage and hardware implementation characteristics.
 - Used iterative modification and synthesis to explore potential hardware optimization approaches.
 
 ---
