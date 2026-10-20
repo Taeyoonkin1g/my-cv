@@ -74,7 +74,7 @@
 
 ### **Undergraduate Researcher | Gyeongsang National University**
 
-**Laboratory of Prof. Lee, Dept. of Electronic Engineering**
+**Laboratory of Prof. Lee**
 
 *October 2026 – Present*
 
