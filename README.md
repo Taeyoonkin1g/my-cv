@@ -72,18 +72,25 @@
 
 ## 🔬 RESEARCH EXPERIENCE
 
+### **Undergraduate Researcher | Gyeongsang National University**
+
+**Laboratory of Prof. Lee**
+
+*October 2026 – Present*
+
+- Joined the laboratory as an undergraduate researcher in October 2026.
+- Studying the literature on **oxide-based resistive switching memory (RRAM)**: device structures, switching mechanisms, and measurement conditions.
+
 ### **Research Intern | Gwangju Institute of Science and Technology (GIST)**
 
 **Graduate School of AI Policy and Strategy**
 
-*July 2026 – Present*
+*July 2026 – August 2026 (internship program July 6–31, extended participation in August)*
 
 #### FPGA / SNN / Neuromorphic Hardware
 
-- Participated in research activities related to **FPGA-based Spiking Neural Network (SNN) accelerator implementation** and neuromorphic computing.
-- Conducted **HLS-based hardware synthesis** and analyzed FPGA resource utilization as part of the hardware implementation workflow.
-- Performed **code-level modifications and iterative synthesis experiments** to investigate hardware resource optimization.
-- Reviewed synthesis results and FPGA resource utilization reports to understand implementation characteristics and resource requirements.
+- Participated in research activities related to an **FPGA-based Spiking Neural Network (SNN) accelerator** and neuromorphic computing.
+- Worked through the **HLS-based synthesis flow** (Vivado / Vitis HLS) and reviewed FPGA resource utilization reports to understand implementation characteristics.
 - Explored **LLM-assisted code transformation** in hardware-oriented development workflows.
 - Conducted literature review on **Spiking Neural Networks and neuromorphic hardware architectures**, focusing on key concepts, architectures, and hardware implementation approaches.
 
@@ -98,6 +105,23 @@
 ---
 
 ## 🛠️ PROJECTS
+
+### **Thermal-Cycling Reliability of Polymer-Protected Perovskite Thin Films**
+
+**Extreme Environment Semiconductor Capstone / Industry–Academia Team Project, Gyeongsang National University** (Advisor: Prof. Yang, Dept. of Chemical Engineering; 5-member team)
+
+*September 2026 – Present*
+
+#### Project Overview
+
+Comparing a rigid polystyrene (PS) and an elastomeric SEBS top protective layer on perovskite thin films under repeated high/low-temperature thermal cycling, with structural, surface, and optical analysis before and after cycling.
+
+#### Contributions
+
+- Surveyed and compared **thermal-cycling test conditions** in the literature (temperature range, ramp rate, dwell time, cycle count, atmosphere; ISOS-T-3 and space-oriented studies) to propose screening conditions.
+- Reviewed published **spin-coating and drying conditions** for PS and SEBS layers, separating reported values from unreported ones.
+- Took part in team practice of **perovskite precursor preparation, spin-coating, and anti-solvent treatment**.
+- Contributing to the preliminary PS/SEBS coating trials, initial XRD comparison, and the mid-term presentation (in progress; thermal-cycling results not yet obtained).
 
 ### **Ultrasonic Time-of-Flight (ToF) Based Real-Time Dimensional Measurement System**
 
@@ -132,8 +156,7 @@ Developed an embedded measurement system using Raspberry Pi and ultrasonic sensi
 
 - Vivado / Vitis HLS
 - High-Level Synthesis (HLS)
-- FPGA Resource Utilization Analysis
-- Hardware Resource Optimization
+- FPGA Resource Utilization Reports
 - Synthesis and Hardware Implementation Workflow
 - Basic SNN / Neuromorphic Hardware Concepts
 
@@ -156,6 +179,8 @@ Developed an embedded measurement system using Raspberry Pi and ultrasonic sensi
 - Basic Semiconductor Device Characterization
 - I-V / C-V Curve Analysis
 - Basic Semiconductor Device Physics
+- Perovskite Thin-Film Spin-Coating (team practice)
+- Thermal-Cycling Test Condition Design (literature-based)
 
 ### **Programming & Development Tools**
 
@@ -164,6 +189,13 @@ Developed an embedded measurement system using Raspberry Pi and ultrasonic sensi
 - Git / GitHub
 - Vivado / Vitis HLS
 - Cadence PSpice
+
+---
+
+## 📜 CERTIFICATIONS & TRAINING
+
+- **IBM Enterprise Design Thinking Practitioner** — IBM (September 2026)
+- **Semiconductor FAB Training** — course completed (certificate requested, October 2026)
 
 ---
 
@@ -177,9 +209,8 @@ Developed an embedded measurement system using Raspberry Pi and ultrasonic sensi
 
 ### **Hardware Synthesis & Analysis**
 
-- Worked with HLS-based hardware development workflows involving source-code modification, synthesis, and resource utilization analysis.
+- Worked with HLS-based hardware development workflows involving source code, synthesis, and resource utilization reports.
 - Examined synthesis reports to understand FPGA resource usage and hardware implementation characteristics.
-- Used iterative modification and synthesis to explore potential hardware optimization approaches.
 
 ---
 
