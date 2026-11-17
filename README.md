@@ -80,7 +80,7 @@
 
 - Joined the laboratory as an undergraduate researcher in October 2026.
 - Studying the literature on **oxide-based resistive switching memory (RRAM)**: device structures, switching mechanisms, and measurement conditions.
-- Undergraduate member of a government-funded research project on memristor reliability; in charge of data-analysis code together with a master's student.
+- At the professor's request, writing data-analysis code for the lab's memristor reliability measurements, working alongside a master's student.
 - Wrote Python tools for device measurement data: **two-level RTN extraction** (ΔI/I, dwell times), **low-frequency noise spectra** (Welch PSD, spectral slope), memory-window and variability metrics, and state estimation with a Kalman filter and a hidden Markov model.
 - Tested the tools on synthetic data so far; applying them to measurements from a Keysight B1500A parameter analyzer is the next step.
 
