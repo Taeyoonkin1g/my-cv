@@ -123,7 +123,7 @@ Comparing a rigid polystyrene (PS) and an elastomeric SEBS top protective layer 
 
 - Surveyed and compared **thermal-cycling test conditions** in the literature (temperature range, ramp rate, dwell time, cycle count, atmosphere; ISOS-T-3 and space-oriented studies) to propose screening conditions.
 - Reviewed published **spin-coating and drying conditions** for PS and SEBS layers, separating reported values from unreported ones.
-- Took part in team practice of **perovskite precursor preparation, spin-coating, and anti-solvent treatment**.
+- Hands-on thin-film work: **perovskite precursor preparation, spin-coating with anti-solvent treatment**, and PS/SEBS protective-layer coating trials.
 - Contributing to the preliminary PS/SEBS coating trials, initial XRD comparison, and the mid-term presentation (in progress; thermal-cycling results not yet obtained).
 
 ### **Ultrasonic Time-of-Flight (ToF) Based Real-Time Dimensional Measurement System**
