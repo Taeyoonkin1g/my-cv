@@ -14,7 +14,7 @@
 
 ## 🎯 RESEARCH INTERESTS
 
-- **Semiconductor Devices & Reliability:** Semiconductor Device Physics, Electrical Characterization, Reliability Analysis
+- **Semiconductor Devices & Reliability:** RRAM (Memristor) Reliability, Random Telegraph Noise (RTN) and Low-Frequency Noise, Electrical Characterization, Reliability Analysis
 - **FPGA & Hardware Acceleration:** High-Level Synthesis (HLS), FPGA Resource Optimization, Hardware Implementation
 - **Neuromorphic Computing:** Spiking Neural Networks (SNN), Neuromorphic Hardware Architectures
 - **Semiconductor Packaging:** Extreme Environment Electronics, Thermal/Mechanical Reliability, Advanced Packaging Technologies
@@ -80,6 +80,9 @@
 
 - Joined the laboratory as an undergraduate researcher in October 2026.
 - Studying the literature on **oxide-based resistive switching memory (RRAM)**: device structures, switching mechanisms, and measurement conditions.
+- At the professor's request, writing data-analysis code for the lab's memristor reliability measurements, working alongside a master's student.
+- Wrote Python tools for device measurement data: **two-level RTN extraction** (ΔI/I, dwell times), **low-frequency noise spectra** (Welch PSD, spectral slope), memory-window and variability metrics, and state estimation with a Kalman filter and a hidden Markov model.
+- Tested the tools on synthetic data so far; applying them to measurements from a Keysight B1500A parameter analyzer is the next step.
 
 ### **Research Intern | Gwangju Institute of Science and Technology (GIST)**
 
@@ -118,10 +121,12 @@ Comparing a rigid polystyrene (PS) and an elastomeric SEBS top protective layer 
 
 #### Contributions
 
-- Surveyed and compared **thermal-cycling test conditions** in the literature (temperature range, ramp rate, dwell time, cycle count, atmosphere; ISOS-T-3 and space-oriented studies) to propose screening conditions.
-- Reviewed published **spin-coating and drying conditions** for PS and SEBS layers, separating reported values from unreported ones.
-- Took part in team practice of **perovskite precursor preparation, spin-coating, and anti-solvent treatment**.
-- Contributing to the preliminary PS/SEBS coating trials, initial XRD comparison, and the mid-term presentation (in progress; thermal-cycling results not yet obtained).
+- Research and literature lead in the 5-member team; prepared the proposal and presentation for the first advisor meeting that set the project direction.
+- Surveyed published **thermal-cycling test conditions** (temperature range, ramp rate, dwell time, cycle count, atmosphere; ISOS-T-3) and proposed a −40 to 85 °C first screening range.
+- Selected comparable polymers by **degree of polymerization** (PS N ≈ 1,843 vs SEBS N ≈ 1,812).
+- Verified published **spin-coating and drying conditions** for PS and SEBS layers, separating reported values from unreported ones; practiced perovskite spin-coating with anti-solvent treatment.
+- Co-organized the mid-term presentation research and wrote the **presentation script** and a 15-question Q&A sheet, aligning the slides with the actual experimental status.
+- Team progress: coated films characterized by XRD, GIWAXS, SEM, and UV–Vis before cycling; thermal cycling is next.
 
 ### **Ultrasonic Time-of-Flight (ToF) Based Real-Time Dimensional Measurement System**
 
@@ -184,7 +189,7 @@ Developed an embedded measurement system using Raspberry Pi and ultrasonic sensi
 
 ### **Programming & Development Tools**
 
-- Python
+- Python (data analysis: PSD / RTN feature extraction, Kalman filter, HMM)
 - C / C++
 - Git / GitHub
 - Vivado / Vitis HLS
