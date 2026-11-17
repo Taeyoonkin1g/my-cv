@@ -125,7 +125,8 @@ Comparing a rigid polystyrene (PS) and an elastomeric SEBS top protective layer 
 - Surveyed published **thermal-cycling test conditions** (temperature range, ramp rate, dwell time, cycle count, atmosphere; ISOS-T-3) and proposed a −40 to 85 °C first screening range.
 - Selected comparable polymers by **degree of polymerization** (PS N ≈ 1,843 vs SEBS N ≈ 1,812).
 - Verified published **spin-coating and drying conditions** for PS and SEBS layers, separating reported values from unreported ones; practiced perovskite spin-coating with anti-solvent treatment.
-- Wrote the research-background part of the mid-term presentation. Team progress: coated films characterized by XRD, SEM, and UV–Vis before cycling; thermal cycling is next.
+- Co-organized the mid-term presentation research and wrote the **presentation script** and a 15-question Q&A sheet, aligning the slides with the actual experimental status.
+- Team progress: coated films characterized by XRD, GIWAXS, SEM, and UV–Vis before cycling; thermal cycling is next.
 
 ### **Ultrasonic Time-of-Flight (ToF) Based Real-Time Dimensional Measurement System**
 
