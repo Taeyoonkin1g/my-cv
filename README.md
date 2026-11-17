@@ -14,7 +14,7 @@
 
 ## 🎯 RESEARCH INTERESTS
 
-- **Semiconductor Devices & Reliability:** Semiconductor Device Physics, Electrical Characterization, Reliability Analysis
+- **Semiconductor Devices & Reliability:** RRAM (Memristor) Reliability, Random Telegraph Noise (RTN) and Low-Frequency Noise, Electrical Characterization, Reliability Analysis
 - **FPGA & Hardware Acceleration:** High-Level Synthesis (HLS), FPGA Resource Optimization, Hardware Implementation
 - **Neuromorphic Computing:** Spiking Neural Networks (SNN), Neuromorphic Hardware Architectures
 - **Semiconductor Packaging:** Extreme Environment Electronics, Thermal/Mechanical Reliability, Advanced Packaging Technologies
@@ -80,6 +80,9 @@
 
 - Joined the laboratory as an undergraduate researcher in October 2026.
 - Studying the literature on **oxide-based resistive switching memory (RRAM)**: device structures, switching mechanisms, and measurement conditions.
+- Responsible for the **analysis code** of a government-funded (NRF) research project on **Bayesian-filtering-based on-chip reliability sensing of memristors** and health-aware in-memory computing, working with a master's student in the lab.
+- Built a Python package for RRAM reliability data: a measurement data schema, memory-window and variability features, **low-frequency noise features** (Welch PSD, PSD slope), **two-level RTN extraction** (ΔI/I, dwell times), and **health-state estimation** with a 1-D Kalman filter and a 3-state Gaussian HMM.
+- Validated the pipeline on synthetic RTN and degradation data; applying it to device measurements on a Keysight B1500A parameter analyzer is the next step (in progress).
 
 ### **Research Intern | Gwangju Institute of Science and Technology (GIST)**
 
@@ -184,7 +187,7 @@ Developed an embedded measurement system using Raspberry Pi and ultrasonic sensi
 
 ### **Programming & Development Tools**
 
-- Python
+- Python (data analysis: PSD / RTN feature extraction, Kalman filter, HMM)
 - C / C++
 - Git / GitHub
 - Vivado / Vitis HLS
